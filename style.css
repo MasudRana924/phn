@@ -1,3 +1,26 @@
 body {
     font-size: 15pt;
 }
+h1{font-size: 40px;}
+.orange-color{
+  color: orange;
+}
+.button{
+      text-decoration: none;
+      background-image: linear-gradient(green, orange);
+      color:white;
+      padding:10px 40px;
+      border-radius: 5px;
+      font-weight:900;
+}
+section{
+    height: 400px;
+    padding-top: 50px;}
+.half-width{
+  width:50%;
+  float:left;
+}
+.half-width img{
+  width:60%;
+}
+    
